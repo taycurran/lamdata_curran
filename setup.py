@@ -1,3 +1,5 @@
 """
 Information
 """
+
+import setuptools
